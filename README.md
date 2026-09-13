@@ -1,2 +1,2 @@
-# Inversi-n
+# Inversion
 Inversión AGB
